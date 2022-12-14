@@ -1,5 +1,0 @@
-Nama: Virdio samuel
-github: @diosamuel
-web: diosamuel.github.io
-
-mau belajar pull request agar bisa ikut hacktoberfest :D

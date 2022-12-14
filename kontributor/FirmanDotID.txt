@@ -1,1 +1,0 @@
-Test ini adalah file text untuk latihan git. Saya menggunakan Git CLI di Linux

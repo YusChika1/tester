@@ -1,5 +1,0 @@
-Nama: Rifki Andriyanto
-Github: https://github.com/rifkiandriyanto
-Web: https://rifkiandriyanto.netlify.app
-
-Bio: </>
